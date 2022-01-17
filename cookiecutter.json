@@ -4,9 +4,9 @@
   "role_slug": "{{ cookiecutter.role_name.lower().replace(' ', '_').replace('-', '_') }}",
   "description": "Enter description of Ansible role",
   "author": "Your Name",
-  "company": "Enter company name",
-  "email": "me@example.com",
-  "website": "http://example.com",
+  "company": "Cubit9 Technologies Ltd.",
+  "email": "info@cubit9.com",
+  "website": "https://cubit9.com",
   "license": [
     "MIT",
     "BSD-3",

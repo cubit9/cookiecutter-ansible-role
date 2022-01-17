@@ -39,7 +39,6 @@ Choose from 1, 2, 3 [1]:
 min_ansible_version [2.8]:
 year [2022]:
 github_username [Enter your GitHub username]: 
-travis_username [Enter your Travis CI username]: 
 Select default_ci_badges:
 1 - Y
 2 - N

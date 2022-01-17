@@ -9,10 +9,6 @@
 
 ![Molecule Test](https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.role_slug }}/workflows/Molecule%20Test/badge.svg)
 
-### Travis CI
-
-[![Build Status](https://travis-ci.org/{{ cookiecutter.travis_username }}/{{ cookiecutter.role_slug }}.svg?branch=master)](https://travis-ci.org/{{ cookiecutter.travis_username }}/{{ cookiecutter.role_slug }})
-
 {% endif %}
 
 ## Requirements

@@ -7,4 +7,3 @@ default_context:
   company: Example
   email: user@example.org
   website: http://example.org
-  twitter: example

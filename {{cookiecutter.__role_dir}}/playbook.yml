@@ -2,6 +2,6 @@
 - name: Example Playbook
   hosts: all
   tasks:
-    - name: Include {{ cookiecutter.role_slug }}
+    - name: Include {{ cookiecutter.__role_slug }}
       include_role:
-        name: {{ cookiecutter.role_slug }}
+        name: {{ cookiecutter.__role_slug }}

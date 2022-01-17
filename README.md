@@ -24,8 +24,6 @@ In this example we will create an Ansible role for NGINX.
 cookiecutter https://github.com/cubit9/cookiecutter-ansible-role
 ...
 role_name [Enter Ansible role name]: test-role
-role_dir: ansible-role-test_role
-role_slug: test-role
 description [Enter description of Ansible role]: A test role
 author [Your Name]: 
 company [Enter company name]: Cubit9 Technologies Ltd.

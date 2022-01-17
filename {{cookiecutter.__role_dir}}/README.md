@@ -1,4 +1,4 @@
-# {{ cookiecutter.role_slug }}
+# {{ cookiecutter.__role_slug }}
 
 {{ cookiecutter.description }}
 {% if cookiecutter.default_ci_badges == "Y" %}
@@ -7,7 +7,7 @@
 
 ### GitHub Actions
 
-![Molecule Test](https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.role_slug }}/workflows/Molecule%20Test/badge.svg)
+![Molecule Test](https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.__role_slug }}/workflows/Molecule%20Test/badge.svg)
 
 {% endif %}
 
